@@ -1,9 +1,5 @@
 # Lab — Data Pipeline cho LLM (Tokenization → Embedding)
 
-Chuyển thể từ `ch02.ipynb` và `dataloader.ipynb` — "Build a Large Language
-Model From Scratch" (Sebastian Raschka).
-Nguồn tham khảo gốc: <https://github.com/rasbt/LLMs-from-scratch>
-
 Xem hướng dẫn chi tiết từng bước trong [LAB_GUIDE.md](./LAB_GUIDE.md) —
 mỗi block có checkpoint để bạn tự biết mình đang đúng tiến độ.
 
